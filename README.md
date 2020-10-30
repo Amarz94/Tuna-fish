@@ -3,7 +3,7 @@
 
 ## Project overview      
 
-![](Develop/assets/images/01-html-css-git-homework-demo.png)
+![](assets/images/01-html-css-git-homework-demo.png)
 
 
 ### To create a coding formate for our website that is up to accessibilty standards
